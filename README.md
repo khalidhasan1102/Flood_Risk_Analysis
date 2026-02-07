@@ -25,7 +25,9 @@ This project assesses flood risk by integrating multiple spatial factors using G
 
 ## Output
 - Flood risk maps  
-- Hazard zonation maps  
+- Hazard zonation maps
+- <img width="907" height="684" alt="image" src="https://github.com/user-attachments/assets/78b61637-9d0c-440f-a421-c7c6f051c94e" />
+
 
 ## Applications
 - Disaster management  
